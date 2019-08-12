@@ -12,7 +12,9 @@ Setup Guide (assumption Rasbian is already installed)
 		sudo nano /etc/modules
     file need to contain as follows:
   
+      
       i2c-bcm2708
+      
       i2c-dev
 3. Edit modules blacklist
     
