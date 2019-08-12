@@ -1,7 +1,7 @@
 # RaspberryPi
 Project to add I2C devices to the Classes.py so it's easier to use
 
-Setup Guide
+Setup Guide (assumption Rasbian is already installed)
 
 1. Enable I2C in Raspberry PI
     
