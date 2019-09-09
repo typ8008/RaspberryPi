@@ -26,7 +26,7 @@ Setup Guide (assumption Rasbian is already installed)
 		sudo apt-get update
     
 		sudo apt-get install python-smbus i2c-tools
-    
-    		pip install smbus2 - for Python 2
+		
+		pip install smbus2 - for Python 2
 		
 		pip3 install smbus2 - for Python 3
