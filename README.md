@@ -30,3 +30,6 @@ Setup Guide (assumption Rasbian is already installed)
 		pip install smbus2 - for Python 2
 		
 		pip3 install smbus2 - for Python 3
+5. Installing Pandas:
+
+		sudo apt-get install python3-pandas
